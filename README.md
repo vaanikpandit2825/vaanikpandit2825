@@ -66,7 +66,8 @@
 
 ---
 
-## 🎮 Fun Section
+## 🌍 My Dev World
 <p align="center">
-  <img src="https://pacman.abozanona.me?username=vaanikpandit2825" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="3D Globe Animation"/>
 </p>
+
