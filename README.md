@@ -13,19 +13,22 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Passionate **Flutter Developer**  
-- 🛠 Skilled in **Flutter, Dart, C++, Python**  
-- 🌱 Currently sharpening my **Flutter & full-stack dev** skills  
-- 🤝 Open to exciting **collaborations**  
-- 📫 Reach me at **vaanikpandit@gmail.com**
+- 🎯 Passionate *Flutter Developer* and coder  
+- 🛠 Skilled in *Flutter, Dart, C++, Python, OOP*  
+- 🌱 Currently sharpening my *Flutter & full-stack development skills*  
+- 💡 Love exploring *new tech, solving problems, and building apps*  
+- 🤝 Open to *collaborations & networking*  
+- 📫 Reach me at *vaanikpandit@gmail.com*  
+- 📍 Based in *Chennai, India*  
 
 ---
 
 ## 💡 Projects
 ✨ Some of my highlighted works:  
-- **[ExpenseTracker](#)** → Track and manage expenses smartly  
-- **[QuickQuoter](#)** → Generate and share quick quotes  
-- **[Truth-And-Dare](#)** → Fun app for playing truth & dare anytime  
+- *[ExpenseTracker](#)* → Smartly track and manage your expenses  
+- *[QuickQuoter](#)* → Generate and share quick quotes instantly  
+- *[Truth-And-Dare](#)* → Fun app to play Truth & Dare anytime  
+- *[AI Interview App](#)* → Simulate coding & interview rounds with AI feedback  
 
 ---
 
@@ -33,11 +36,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
   <a href="mailto:vaanikpandit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
+  <a href="https://github.com/vaanikpandit2825" target="_blank"><img src="https://img.shields.io/badge/GitHub-38FDD8?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
 </p>
 
 ---
 
-## 🛠️ Tools & Skills
+## 🛠 Tools & Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -68,7 +72,8 @@
 
 ## 🌍 My Dev World
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="3D Globe Animation"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="Profile Card"/>
 </p>
 
 ---
+
