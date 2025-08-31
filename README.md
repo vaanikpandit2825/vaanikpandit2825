@@ -1,45 +1,40 @@
-# Hi, I'm Vaanik Pandit 👋
-
-**Flutter Developer • UI/UX Enthusiast**
-
----
-
-## About Me
-- 🌱 Passionate about building sleek and functional mobile apps with Flutter.  
-- 🎨 Exploring the balance between **design** and **development**.  
-- 📍 Based in India.  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F700FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vaanik+Pandit;Flutter+Developer+%26+UI%2FUX+Enthusiast" alt="Typing SVG"/>
+</div>
 
 ---
 
-## Featured Projects
-
-### 🚀 [ExpenseTracker](#)
-A simple yet powerful expense management app to track and analyze daily spending.  
-*Tech Stack: Flutter, Dart, Hive (local storage).*
-
-### 💬 [QuickQuoter](#)
-An app to instantly generate, display, and share inspirational quotes.  
-*Tech Stack: Flutter, Dart, REST API integration.*  
-
-### 🎲 [Truth-And-Dare](#)
-A fun party app with interactive Truth & Dare challenges.  
-*Tech Stack: Flutter, Dart.*  
+### 🔥 About Me
+- 🌱 Passionate Flutter Developer & UI/UX Enthusiast  
+- 🎨 I design clean interfaces and write efficient code  
+- 📍 Based in India  
+- 💡 Always learning new frameworks, tools, and design patterns  
 
 ---
 
-## Tools & Skills
-- **Languages & Frameworks**: Dart • Flutter  
-- **UI/UX Tools**: Figma • Adobe XD  
-- **Other Tools**: Git • Firebase • REST APIs  
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **ExpenseTracker** | Track daily expenses effortlessly | Flutter, Dart, Hive |
+| **QuickQuoter** | Generate & share inspirational quotes | Flutter, Dart, REST API |
+| **Truth-And-Dare** | Fun mobile app for parties | Flutter, Dart |
 
 ---
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/vaanik-pandit-224666332/)  
+### 🛠️ Tools & Skills
+**Languages & Frameworks:** Dart • Flutter  
+**UI/UX Tools:** Figma • Adobe XD  
+**Other Tools:** Git • Firebase • REST APIs  
 
 ---
 
-## GitHub Stats
-![Vaanik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaanik-pandit&show_icons=true&theme=radical)
+### 📈 GitHub Stats
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vaanik-pandit&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaanik-pandit&layout=compact&theme=radical" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaanik-pandit&layout=compact&theme=radical)
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/vaanik-pandit-224666332/)  
