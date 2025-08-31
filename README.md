@@ -7,25 +7,25 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="https://i.pinimg.com/originals/2d/65/64/2d65648d3df1a9a7e30e47f51d4a80a0.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎯 Passionate *Flutter Developer*  
-- 🛠 Skilled in *Flutter, Dart, C++, Python*  
-- 🌱 Currently sharpening my *Flutter & full-stack dev* skills  
-- 🤝 Open to exciting *projects & collaborations*  
-- 📫 Reach me at *vaanikpandit@gmail.com*
+- 🎯 Passionate **Flutter Developer**  
+- 🛠 Skilled in **Flutter, Dart, C++, Python**  
+- 🌱 Currently sharpening my **Flutter & full-stack dev** skills  
+- 🤝 Open to exciting **collaborations**  
+- 📫 Reach me at **vaanikpandit@gmail.com**
 
 ---
 
 ## 💡 Projects
-✨ Here are some of my highlighted works:  
-- *[ExpenseTracker](#)* → Track and manage expenses smartly  
-- *[QuickQuoter](#)* → Generate and share quick quotes  
-- *[Truth-And-Dare](#)* → Fun app for playing truth & dare anytime  
+✨ Some of my highlighted works:  
+- **[ExpenseTracker](#)** → Track and manage expenses smartly  
+- **[QuickQuoter](#)** → Generate and share quick quotes  
+- **[Truth-And-Dare](#)** → Fun app for playing truth & dare anytime  
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠 Tools & Skills
+## 🛠️ Tools & Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -66,8 +66,9 @@
 
 ---
 
-## 🎮 Fun Section
+## 🌍 My Dev World
 <p align="center">
-  <img src="https://pacman.abozanona.me?username=vaanikpandit2825" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="3D Globe Animation"/>
 </p>
 
+---
