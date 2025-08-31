@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 ---
@@ -70,4 +70,3 @@
 <p align="center">
   <img src="https://pacman.abozanona.me?username=vaanikpandit2825" />
 </p>
-
