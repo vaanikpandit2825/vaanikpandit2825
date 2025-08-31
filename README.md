@@ -1,62 +1,64 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/26/2b/30/262b30790f6f4d773dc3a38e7b1c98d2.gif" width="600" />
+<h1 align="left">Hi, I'm Vaanik Pandit :)</h1>
+
+<p align="left">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&left=true&width=900&height=60&lines=Flutter+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Vaanik Pandit</h1>
-<h3 align="center">🚀 Flutter Developer | 💡 Problem Solver | 🎨 Tech Enthusiast</h3>
+<p align="left">
+<img src="https://i.pinimg.com/originals/26/2b/30/262b30790f6f4d773dc3a38e7b1c98d2.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+</p>
 
 ---
 
 ## 🚀 Projects
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/ExpenseTracker-000?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/QuickQuoter-000?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Truth--And--Dare-000?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-</p>
-
-<p align="center">✨ Turning ideas into apps that make life easier & more fun ✨</p>
+- **ExpenseTracker** 💰 – Track and manage your expenses.  
+- **QuickQuoter** ⚡ – Generate quotes instantly.  
+- **Truth-And-Dare** 🎲 – Fun party game app built with Flutter.  
 
 ---
 
 ## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vaanikpandit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/vaanikpandit2825"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+<a href="mailto:vaanikpandit@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
+<a href="https://github.com/vaanikpandit2825" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-38FDD8?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+## 🛠 Tools & Skills
+<p align="left">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FF652F?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaanikpandit2825&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaanikpandit2825&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=vaanikpandit2825&show_icons=true&theme=radical&count_private=true&bg_color=0D1117&title_color=38FDD8&icon_color=79FF97&text_color=FFFFFF&hide_border=true" width="450" height="230"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaanikpandit2825&theme=radical&background=0D1117&ring=38FDD8&fire=38FDD8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&hide_border=true" width="450" height="230"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaanikpandit2825&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaanikpandit2825&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaanikpandit2825&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/vaanikpandit2825/vaanikpandit2825/blob/output/github-contribution-grid-snake.svg" />
 </p>
