@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&center=true&width=900&height=60&lines=Flutter+Developer;Open+Source+Contributor;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&center=true&width=900&height=60&lines=Flutter+Developer;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="https://i.pinimg.com/originals/2d/65/64/2d65648d3df1a9a7e30e47f51d4a80a0.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ---
 
 ## 💡 Projects
-✨ Here are some of my highlighted works:  
+✨ Some of my highlighted works:  
 - **[ExpenseTracker](#)** → Track and manage expenses smartly  
 - **[QuickQuoter](#)** → Generate and share quick quotes  
 - **[Truth-And-Dare](#)** → Fun app for playing truth & dare anytime  
@@ -66,7 +66,9 @@
 
 ---
 
-## 🎮 Fun Section
+## 🌍 My Dev World
 <p align="center">
-  <img src="https://pacman.abozanona.me?username=vaanikpandit2825" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="3D Globe Animation"/>
 </p>
+
+---
