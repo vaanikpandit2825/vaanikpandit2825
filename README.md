@@ -5,8 +5,8 @@
 ---
 
 ### 🔥 About Me
-- 🌱 Passionate Flutter Developer & UI/UX Enthusiast  
-- 🎨 I design clean interfaces and write efficient code  
+- 🌱 Passionate **Flutter Developer** & UI/UX Enthusiast  
+- 🎨 I design clean interfaces and write efficient Flutter code  
 - 📍 Based in India  
 - 💡 Always learning new frameworks, tools, and design patterns  
 
