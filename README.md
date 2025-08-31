@@ -12,16 +12,16 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 - 🎯 Passionate **Flutter Developer**  
 - 🛠 Skilled in **Flutter, Dart, C++, Python**  
 - 🌱 Currently sharpening my **Flutter & full-stack dev** skills  
-- 🤝 Open to exciting **collaborations**  
+- 🤝 Open to exciting **projects & collaborations**  
 - 📫 Reach me at **vaanikpandit@gmail.com**
 
 ---
 
-## 💡 Projects  
+## 💡 Projects
 ✨ Here are some of my highlighted works:  
 - **[ExpenseTracker](#)** → Track and manage expenses smartly  
 - **[QuickQuoter](#)** → Generate and share quick quotes  
@@ -29,7 +29,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
   <a href="mailto:vaanikpandit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Tools & Skills  
+## 🛠️ Tools & Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
   <table>
     <tr>
@@ -66,12 +66,8 @@
 
 ---
 
-## 🎮 Fun Section: Space Invaders
-
+## 🎮 Fun Section
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6xNqg3xOaXqZi/giphy.gif" width="500" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="https://pacman.abozanona.me?username=vaanikpandit2825" />
 </p>
 
-<p align="center">
-  👾 Blast some invaders while exploring my GitHub!  
-</p>
