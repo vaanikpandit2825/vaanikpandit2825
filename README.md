@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2d/65/64/2d65648d3df1a9a7e30e47f51d4a80a0.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 - 🎯 Passionate **Flutter Developer**  
 - 🛠 Skilled in **Flutter, Dart, C++, Python**  
 - 🌱 Currently sharpening my **Flutter & full-stack dev** skills  
@@ -21,15 +21,15 @@
 
 ---
 
-## 💡 Projects
-✨ Some of my highlighted works:  
+## 💡 Projects  
+✨ Here are some of my highlighted works:  
 - **[ExpenseTracker](#)** → Track and manage expenses smartly  
 - **[QuickQuoter](#)** → Generate and share quick quotes  
 - **[Truth-And-Dare](#)** → Fun app for playing truth & dare anytime  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
   <a href="mailto:vaanikpandit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Tools & Skills
+## 🛠️ Tools & Skills  
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
   <table>
     <tr>
@@ -66,9 +66,9 @@
 
 ---
 
-## 🌍 My Dev World
+## 🎮 Fun Section  
 <p align="center">
+  🌍 Here’s a **3D Globe** of my developer world!  
+  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="3D Globe Animation"/>
 </p>
-
----
