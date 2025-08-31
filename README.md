@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Vaanik Pandit :)</h1>
+<h1 align="left">Hi, I'm Vaanik Pandit 👋</h1>
 
 <p align="left">
 <a href="https://git.io/typing-svg">
@@ -7,36 +7,35 @@
 </p>
 
 <p align="left">
-<img src="https://i.pinimg.com/originals/26/2b/30/262b30790f6f4d773dc3a38e7b1c98d2.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+<img src="https://github.com/vaanikpandit2825/vaanikpandit2825/blob/main/pixelart.png" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
 </p>
 
 ---
 
-## 🚀 Projects
-- **ExpenseTracker** 💰 – Track and manage your expenses.  
-- **QuickQuoter** ⚡ – Generate quotes instantly.  
-- **Truth-And-Dare** 🎲 – Fun party game app built with Flutter.  
+## 🚀 What I'm Working On
+**ExpenseTracker** – Manage daily expenses with ease.  
+**QuickQuoter** – A fast quote generator app.  
+**Truth-And-Dare** – Fun party game built with Flutter.  
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
 <a href="mailto:vaanikpandit@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
-<a href="https://github.com/vaanikpandit2825" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-38FDD8?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
 </p>
 
 ---
 
-## 🛠 Tools & Skills
+## 🛠️ Tools & Skills
 <p align="left">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-FF652F?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -53,12 +52,6 @@
       </td>
     </tr>
   </table>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaanikpandit2825&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/vaanikpandit2825/vaanikpandit2825/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://pacman.abozanona.me?username=vaanikpandit2825" />
 </p>
