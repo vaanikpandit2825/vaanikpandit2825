@@ -1,41 +1,51 @@
-<h1 align="left">Hi, I'm Vaanik Pandit 👋</h1>
+<h1 align="center">Hi, I'm Vaanik Pandit 👋</h1>
 
-<p align="left">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&left=true&width=900&height=60&lines=Flutter+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&center=true&width=900&height=60&lines=Flutter+Developer;Open+Source+Contributor;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="left">
-<img src="https://github.com/vaanikpandit2825/vaanikpandit2825/blob/main/pixelart.png" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 ---
 
-## 🚀 What I'm Working On
-**ExpenseTracker** – Manage daily expenses with ease.  
-**QuickQuoter** – A fast quote generator app.  
-**Truth-And-Dare** – Fun party game built with Flutter.  
+## 🚀 About Me
+- 🎯 Passionate **Flutter Developer**  
+- 🛠 Skilled in **Flutter, Dart, C++, Python**  
+- 🌱 Currently sharpening my **Flutter & full-stack dev** skills  
+- 🤝 Open to exciting **collaborations**  
+- 📫 Reach me at **vaanikpandit@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-<a href="mailto:vaanikpandit@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
+## 💡 Projects
+✨ Here are some of my highlighted works:  
+- **[ExpenseTracker](#)** → Track and manage expenses smartly  
+- **[QuickQuoter](#)** → Generate and share quick quotes  
+- **[Truth-And-Dare](#)** → Fun app for playing truth & dare anytime  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+  <a href="mailto:vaanikpandit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
 </p>
 
 ---
 
 ## 🛠️ Tools & Skills
-<p align="left">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -52,6 +62,11 @@
       </td>
     </tr>
   </table>
+</p>
 
-<img src="https://pacman.abozanona.me?username=vaanikpandit2825" />
+---
+
+## 🎮 Fun Section
+<p align="center">
+  <img src="https://pacman.abozanona.me?username=vaanikpandit2825" />
 </p>
