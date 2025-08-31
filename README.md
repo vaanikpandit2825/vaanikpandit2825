@@ -69,7 +69,7 @@
 ## 🎮 Fun Section: Space Invaders
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-space-invaders/main/assets/space-invaders.gif" width="500" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="https://media.giphy.com/media/3o7aD6xNqg3xOaXqZi/giphy.gif" width="500" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 <p align="center">
