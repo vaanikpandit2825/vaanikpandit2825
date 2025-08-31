@@ -66,9 +66,12 @@
 
 ---
 
-## 🎮 Fun Section  
+## 🎮 Fun Section: Space Invaders
+
 <p align="center">
-  🌍 Here’s a **3D Globe** of my developer world!  
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="3D Globe Animation"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-space-invaders/main/assets/space-invaders.gif" width="500" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</p>
+
+<p align="center">
+  👾 Blast some invaders while exploring my GitHub!  
 </p>
