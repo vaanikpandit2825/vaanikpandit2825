@@ -23,6 +23,7 @@
 
 ## 💡 Projects
 ✨ Here are some of my highlighted works:  
+- *[HabitForge](#)* → Build habits, stay consistent, and achieve your goals  
 - *[ExpenseTracker](#)* → Track and manage expenses smartly  
 - *[QuickQuoter](#)* → Generate and share quick quotes  
 - *[Truth-And-Dare](#)* → Fun app for playing truth & dare anytime  
@@ -70,4 +71,3 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="3D Globe Animation"/>
 </p>
-
