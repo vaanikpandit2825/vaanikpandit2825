@@ -27,6 +27,7 @@
 - *[ExpenseTracker](#)* → Track and manage expenses smartly  
 - *[QuickQuoter](#)* → Generate and share quick quotes  
 - *[Truth-And-Dare](#)* → Fun app for playing truth & dare anytime  
+- *[Aurora AI](#)* → Your intelligent AI assistant for smarter productivity  
 
 ---
 
