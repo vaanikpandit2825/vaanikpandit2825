@@ -23,9 +23,9 @@
 
 ## 💡 Projects
 ✨ Here are some of my highlighted works:  
-- *[HabitForge](#)* → Build habits, stay consistent, and achieve your goals  
+- *[GitPulse](#)* → Visualize and track your GitHub activity and commits 
 - *[ExpenseTracker](#)* → Track and manage expenses smartly  
-- *[QuickQuoter](#)* → Generate and share quick quotes  
+- *[PlaceX](#)* → Placement management app to track opportunities, applications, and interview progress  
 - *[Truth-And-Dare](#)* → Fun app for playing truth & dare anytime  
 - *[Aurora AI](#)* → Your intelligent AI assistant for smarter productivity  
 
