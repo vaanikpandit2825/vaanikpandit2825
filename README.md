@@ -13,9 +13,9 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Passionate *Flutter Developer*  
-- 🛠 Skilled in *Flutter, Dart, C++, Python*  
-- 🌱 Currently sharpening my *Flutter & full-stack dev* skills  
+- 🎯 Passionate *Android Developer*  
+- 🛠 Skilled in *Flutter, Dart, C++, Python, Kotlin*  
+- 🌱 Currently sharpening my *Kotlin & full-stack dev* skills  
 - 🤝 Open to exciting *collaborations*  
 - 📫 Reach me at *vaanikpandit@gmail.com*
 
