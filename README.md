@@ -63,7 +63,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=vaanikpandit2825&show_icons=true&theme=radical&count_private=true&bg_color=0D1117&title_color=38FDD8&icon_color=79FF97&text_color=FFFFFF&hide_border=true" width="450" height="230"/>
+       <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaanikpandit2825&bg_color=0D1117&color=38FDD8&line=38FDD8&point=FFFFFF&area=true&hide_border=true"/>
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaanikpandit2825&theme=radical&background=0D1117&ring=38FDD8&fire=38FDD8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&hide_border=true" width="450" height="230"/>
