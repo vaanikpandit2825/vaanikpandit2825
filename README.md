@@ -27,7 +27,7 @@
 |---|---|---|
 | [**GitPulse**](https://github.com/vaanikpandit2825/GitPulse) | Visualize GitHub activity — commits, streaks, contribution graphs | Kotlin · GitHub API |
 | [**Aurora AI**](https://github.com/vaanikpandit2825/AuroraAI) | AI chatbot assistant for Android | Kotlin · Gemini API |
-| [**PlaceX**](https://github.com/vaanikpandit2825/PlaceX) | Campus placement tracker — applications, rounds, interview pipeline | Flutter · Firebase |
+| [**PlaceX**](https://github.com/vaanikpandit2825/PlaceX) | Campus placement tracker — applications, rounds, interview pipeline | Flutter · MySQL |
 | [**ExpenseTracker**](https://github.com/vaanikpandit2825/ExpenseTracker) | Expense manager with category-based analytics | Flutter · Dart |
 | [**Truth & Dare**](https://github.com/vaanikpandit2825/TruthAndDare) | Multiplayer truth & dare with custom question packs | Flutter |
 
