@@ -1,23 +1,23 @@
-<div align="center">
+<h1 align="center">Hi, I'm Vaanik Pandit 👋</h1>
 
-# Vaanik Pandit
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&center=true&width=900&height=60&lines=Kotlin+Developer;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38FDD8&center=true&width=750&height=45&lines=Android+Developer;Kotlin+%E2%80%A2+Flutter+%E2%80%A2+Python;Building+apps+that+actually+ship" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaanik-pandit-224666332/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaanikpandit@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/vaanikpandit2825?style=flat-square&color=38FDD8&labelColor=0D1117)](https://github.com/vaanikpandit2825)
-
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</p>
 
 ---
 
-Android developer. I build mobile applications — AI assistants, finance tools, placement trackers.  
-Kotlin-first. Flutter when the job calls for it. College student shipping real projects.
+## 🚀 About Me
+- 🎯 Passionate *Android Developer*  
+- 🛠 Skilled in *Flutter, Dart, C++, Python, Kotlin*  
+- 🌱 Currently sharpening my *Kotlin & full-stack dev* skills  
+- 🤝 Open to exciting *collaborations*  
+- 📫 Reach me at *vaanikpandit@gmail.com*
 
 ---
 
@@ -34,7 +34,13 @@ Kotlin-first. Flutter when the job calls for it. College student shipping real p
 
 ---
 
-## Stack
+##  Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+  <a href="mailto:vaanikpandit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
+</p>
+
+---
 
 <div align="center">
 
@@ -52,23 +58,23 @@ Kotlin-first. Flutter when the job calls for it. College student shipping real p
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaanikpandit2825&show_icons=true&count_private=true&bg_color=0D1117&title_color=38FDD8&icon_color=38FDD8&text_color=FFFFFF&hide_border=true&rank_icon=github" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaanikpandit2825&background=0D1117&ring=38FDD8&fire=38FDD8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38FDD8&sideLabels=38FDD8&dates=888888&hide_border=true" height="175"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaanikpandit2825&layout=compact&bg_color=0D1117&title_color=38FDD8&text_color=FFFFFF&hide_border=true&langs_count=6" height="140"/>
-
-</div>
+##  GitHub Stats
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=vaanikpandit2825&show_icons=true&theme=radical&count_private=true&bg_color=0D1117&title_color=38FDD8&icon_color=79FF97&text_color=FFFFFF&hide_border=true" width="450" height="230"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaanikpandit2825&theme=radical&background=0D1117&ring=38FDD8&fire=38FDD8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&hide_border=true" width="450" height="230"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-<div align="center">
-<sub>Android · Kotlin · Mobile Development</sub>
-</div>
+##  My Dev World
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="3D Globe Animation"/>
+</p>
