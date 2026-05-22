@@ -29,7 +29,7 @@
 | [**Aurora AI**](https://github.com/vaanikpandit2825/AuroraAI) | AI chatbot assistant for Android | Flutter · Gemini API |
 | [**PlaceX**](https://github.com/vaanikpandit2825/PlaceX) | Campus placement tracker — applications, rounds, interview pipeline | Kotlin · MySQL |
 | [**ExpenseTracker**](https://github.com/vaanikpandit2825/ExpenseTracker) | Expense manager with category-based analytics | Flutter · Dart |
-| [**Truth & Dare**](https://github.com/vaanikpandit2825/TruthAndDare) | Multiplayer truth & dare with custom question packs | Flutter |
+| [**ContractLens**](https://github.com/vaanikpandit2825/ContractLens) | Smart legal document analyzer — extracts obligations, flags risky terms, generates summaries | Kotlin · Gemini API |
 
 
 ---
