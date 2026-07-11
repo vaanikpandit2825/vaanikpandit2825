@@ -1,77 +1,73 @@
-<h1 align="center">Hi, I'm Vaanik Pandit 👋</h1>
-
+<h1 align="center">Vaanik Pandit</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&center=true&width=900&height=60&lines=Kotlin+Developer;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38FDD8&center=true&width=700&height=40&lines=Android+%2F+Kotlin+%C2%B7+Jetpack+Compose;Flutter+%2F+Dart+%C2%B7+BLoC;Shipping+production+mobile+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  B.Tech CS @ SRM · Ex-Intern @ Twwios Technologies · Building <b>Glimpse</b>
 </p>
 
----
-
-## 🚀 About Me
-- 🎯 Passionate *Android Developer*  
-- 🛠 Skilled in *Flutter, Dart, C++, Python, Kotlin*  
-- 🌱 Currently sharpening my *Kotlin & full-stack dev* skills  
-- 🤝 Open to exciting *collaborations*  
-- 📫 Reach me at *vaanikpandit@gmail.com*
-
----
-
-## Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**GitPulse**](https://github.com/vaanikpandit2825/GitPulse) | Visualize GitHub activity — commits, streaks, contribution graphs | Kotlin · GitHub API |
-| [**Aurora AI**](https://github.com/vaanikpandit2825/AuroraAI) | AI chatbot assistant for Android | Flutter · Gemini API |
-| [**PlaceX**](https://github.com/vaanikpandit2825/PlaceX) | Campus placement tracker — applications, rounds, interview pipeline | Kotlin · MySQL |
-| [**ExpenseTracker**](https://github.com/vaanikpandit2825/ExpenseTracker) | Expense manager with category-based analytics | Flutter · Dart |
-| [**ContractLens**](https://github.com/vaanikpandit2825/ContractLens) | Smart legal document analyzer — extracts obligations, flags risky terms, generates summaries | Kotlin · Gemini API |
-
-
----
-
-##  Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-  <a href="mailto:vaanikpandit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:vaanikpandit@gmail.com"><img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 </p>
 
 ---
 
-<div align="center">
+### About
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black)
-
-</div>
+Mobile developer working across Android (Kotlin, MVVM, Jetpack Compose, Retrofit) and Flutter (BLoC, Hive). At **Twwios Technologies**, built and owned production UI screens end-to-end, including a Categories feature and pre-release bug resolution. Currently building **Glimpse**, a real-time presence app for close friend groups.
 
 ---
 
-##  GitHub Stats
-<p align="center">
-  <table>
-    <tr>
-      <td>
-       <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaanikpandit2825&bg_color=0D1117&color=38FDD8&line=38FDD8&point=FFFFFF&area=true&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-</p>
+### Projects
+
+<!--
+Replace each [DEMO GIF HERE] with an actual screen recording.
+Record: Android Studio's built-in screen recorder, or `scrcpy` + `ffmpeg` to convert to gif.
+Keep each gif under 5MB — host in a `/demo` folder in the repo and reference via raw.githubusercontent.com,
+or upload directly into a GitHub issue/comment to get a stable user-images.githubusercontent.com link.
+-->
+
+**[Glimpse](https://github.com/vaanikpandit2825/Glimpse)** — Real-time presence app for close friend groups. Jetpack Compose UI, custom design system.
+`Kotlin · Jetpack Compose · MVVM`
+<br>[DEMO GIF HERE]
+
+**[ContractLens](https://github.com/vaanikpandit2825/ContractLens)** — AI contract analyzer. Extracts obligations and flags risky clauses from uploaded PDFs using the Gemini API.
+`Kotlin · PDFBox · Gemini API · OkHttp`
+<br>[DEMO GIF HERE]
+
+**[ExpenseTracker](https://github.com/vaanikpandit2825/ExpenseTracker)** — Budget tracker with category-based spend limits and real-time visual breakdowns.
+`Flutter · Dart · Hive`
+<br>[DEMO GIF HERE]
+
+**[PlaceX](https://github.com/vaanikpandit2825/PlaceX)** — Full-stack campus placement tracker: applications, interview rounds, pipeline status.
+`Kotlin · MySQL`
+<br>[DEMO GIF HERE]
+
+**[AuroraAI](https://github.com/vaanikpandit2825/AuroraAI)** — Voice-driven AI assistant combining conversational chat and image generation.
+`Flutter · Gemini API · DALL-E`
+<br>[DEMO GIF HERE]
+
+**[GitPulse](https://github.com/vaanikpandit2825/GitPulse)** — GitHub activity visualizer built directly on the GitHub API.
+`Kotlin · GitHub API`
 
 ---
 
-##  My Dev World
+### Stack
+
+| | |
+|---|---|
+| **Mobile** | Kotlin, Jetpack Compose, Flutter, Dart |
+| **Architecture** | MVVM, BLoC |
+| **Backend / Data** | Retrofit, SQLite, Hive, MySQL, Firebase |
+| **Other** | Python, C++, Git |
+
+---
+
+### GitHub Activity
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="3D Globe Animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaanikpandit2825&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38FDD8&icon_color=38FDD8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaanikpandit2825&theme=radical&hide_border=true&background=0D1117&stroke=38FDD8&ring=38FDD8&fire=38FDD8"/>
 </p>
