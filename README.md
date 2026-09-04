@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
-  <a href="mailto:vaanikpandit@gmail.com" target="_blank">
+  <a href="mailto:vaanikpandit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
   </a>
 </p>
@@ -67,13 +67,13 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaanikpandit2825&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaanikpandit2825&theme=radical" alt="Top Languages by Commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaanikpandit2825&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🐍 Contribution Garden
+## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaanikpandit2825/vaanikpandit2825/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/vaanikpandit2825/vaanikpandit2825/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 </p>
