@@ -1,0 +1,45 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: lowlighter/metrics@latest
+        with:
+          filename: activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_output: svg
+
+      - name: Publish graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p /tmp/graph
+          cp activity-graph.svg /tmp/graph/
+
+          git fetch origin gh-pages
+          git checkout gh-pages
+
+          cp /tmp/graph/activity-graph.svg .
+          git add activity-graph.svg
+          git commit -m "Update activity graph" || exit 0
+          git push origin gh-pages
