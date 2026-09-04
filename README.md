@@ -13,10 +13,11 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Passionate *Android Developer*  
-- 🛠 Skilled in *Flutter, Dart, C++, Python, Kotlin*  
-- 🌱 Currently sharpening my *Kotlin & full-stack dev* skills  
-- 🤝 Open to exciting *collaborations*  
+
+- 🎯 Passionate *Android Developer*
+- 🛠 Skilled in *Flutter, Dart, C++, Python, Kotlin*
+- 🌱 Currently sharpening my *Kotlin & full-stack dev* skills
+- 🤝 Open to exciting *collaborations*
 - 📫 Reach me at *vaanikpandit@gmail.com*
 
 ---
@@ -31,13 +32,17 @@
 | [**ExpenseTracker**](https://github.com/vaanikpandit2825/ExpenseTracker) | Expense manager with category-based analytics | Flutter · Dart |
 | [**ContractLens**](https://github.com/vaanikpandit2825/ContractLens) | Smart legal document analyzer — extracts obligations, flags risky terms, generates summaries | Kotlin · Gemini API |
 
-
 ---
 
-##  Connect With Me
+## Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-  <a href="mailto:vaanikpandit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vaanikpandit@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
+  </a>
 </p>
 
 ---
@@ -58,20 +63,17 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
+
 <p align="center">
-  <table>
-    <tr>
-      <td>
-       <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaanikpandit2825&bg_color=0D1117&color=38FDD8&line=38FDD8&point=FFFFFF&area=true&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaanikpandit2825&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaanikpandit2825&theme=radical" alt="Most Used Languages"/>
 </p>
 
 ---
 
-##  My Dev World
+## My Dev World
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="3D Globe Animation"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaanikpandit2825&theme=radical" alt="GitHub Profile Details"/>
 </p>
