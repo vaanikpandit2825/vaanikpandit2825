@@ -75,5 +75,5 @@
 ## Recent Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaanikpandit2825&bg_color=0D1117&color=38FDD8&line=7F52FF&point=FFFFFF&area=true&hide_border=true" width="900" alt="Recent GitHub Contributions"/>
+  <img src="https://raw.githubusercontent.com/vaanikpandit2825/vaanikpandit2825/gh-pages/activity-graph.svg" width="900" alt="Recent Contributions"/>
 </p>
