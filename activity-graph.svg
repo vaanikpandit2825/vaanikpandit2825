@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1000" height="360"
+viewBox="0 0 1000 360">
+
+<defs>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#7F52FF" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#7F52FF" stop-opacity="0"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect width="100%" height="100%"
+      rx="18"
+      fill="#0D1117"/>
+
+<text x="70" y="30"
+      class="title">
+  Coding Activity
+</text>
+
+<text x="970" y="30"
+      text-anchor="end"
+      class="subtitle">
+  Weekly commits · Last 12 months
+</text>
+
+<line x1="70" y1="305.00" x2="970" y2="305.00" class="grid"/><text x="58" y="309.00" text-anchor="end" class="axis">0</text><line x1="70" y1="249.44" x2="970" y2="249.44" class="grid"/><text x="58" y="253.44" text-anchor="end" class="axis">2</text><line x1="70" y1="193.89" x2="970" y2="193.89" class="grid"/><text x="58" y="197.89" text-anchor="end" class="axis">4</text><line x1="70" y1="110.56" x2="970" y2="110.56" class="grid"/><text x="58" y="114.56" text-anchor="end" class="axis">7</text><line x1="70" y1="55.00" x2="970" y2="55.00" class="grid"/><text x="58" y="59.00" text-anchor="end" class="axis">9</text>
+
+<path d="M 70.00,305.00  L 70.00,305.00 L 87.31,305.00 L 104.62,221.67 L 121.92,305.00 L 139.23,277.22 L 156.54,305.00 L 173.85,305.00 L 191.15,305.00 L 208.46,305.00 L 225.77,305.00 L 243.08,305.00 L 260.38,305.00 L 277.69,305.00 L 295.00,305.00 L 312.31,305.00 L 329.62,249.44 L 346.92,166.11 L 364.23,221.67 L 381.54,305.00 L 398.85,305.00 L 416.15,249.44 L 433.46,138.33 L 450.77,55.00 L 468.08,193.89 L 485.38,305.00 L 502.69,166.11 L 520.00,221.67 L 537.31,221.67 L 554.62,249.44 L 571.92,277.22 L 589.23,193.89 L 606.54,249.44 L 623.85,110.56 L 641.15,305.00 L 658.46,277.22 L 675.77,305.00 L 693.08,305.00 L 710.38,166.11 L 727.69,193.89 L 745.00,221.67 L 762.31,249.44 L 779.62,221.67 L 796.92,221.67 L 814.23,138.33 L 831.54,166.11 L 848.85,166.11 L 866.15,166.11 L 883.46,110.56 L 900.77,193.89 L 918.08,221.67 L 935.38,110.56 L 952.69,110.56 L 970.00,249.44 L 970.00,305.00 Z"
+      fill="url(#area)"/>
+
+<path d="M 70.00,305.00 L 87.31,305.00 L 104.62,221.67 L 121.92,305.00 L 139.23,277.22 L 156.54,305.00 L 173.85,305.00 L 191.15,305.00 L 208.46,305.00 L 225.77,305.00 L 243.08,305.00 L 260.38,305.00 L 277.69,305.00 L 295.00,305.00 L 312.31,305.00 L 329.62,249.44 L 346.92,166.11 L 364.23,221.67 L 381.54,305.00 L 398.85,305.00 L 416.15,249.44 L 433.46,138.33 L 450.77,55.00 L 468.08,193.89 L 485.38,305.00 L 502.69,166.11 L 520.00,221.67 L 537.31,221.67 L 554.62,249.44 L 571.92,277.22 L 589.23,193.89 L 606.54,249.44 L 623.85,110.56 L 641.15,305.00 L 658.46,277.22 L 675.77,305.00 L 693.08,305.00 L 710.38,166.11 L 727.69,193.89 L 745.00,221.67 L 762.31,249.44 L 779.62,221.67 L 796.92,221.67 L 814.23,138.33 L 831.54,166.11 L 848.85,166.11 L 866.15,166.11 L 883.46,110.56 L 900.77,193.89 L 918.08,221.67 L 935.38,110.56 L 952.69,110.56 L 970.00,249.44"
+      fill="none"
+      stroke="#7F52FF"
+      stroke-width="3"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      filter="url(#glow)"/>
+
+<circle cx="104.62" cy="221.67" r="3.2" class="point"><title>3 commits</title></circle><circle cx="139.23" cy="277.22" r="3.2" class="point"><title>1 commits</title></circle><circle cx="329.62" cy="249.44" r="3.2" class="point"><title>2 commits</title></circle><circle cx="346.92" cy="166.11" r="3.2" class="point"><title>5 commits</title></circle><circle cx="364.23" cy="221.67" r="3.2" class="point"><title>3 commits</title></circle><circle cx="416.15" cy="249.44" r="3.2" class="point"><title>2 commits</title></circle><circle cx="433.46" cy="138.33" r="3.2" class="point"><title>6 commits</title></circle><circle cx="450.77" cy="55.00" r="3.2" class="point"><title>9 commits</title></circle><circle cx="468.08" cy="193.89" r="3.2" class="point"><title>4 commits</title></circle><circle cx="502.69" cy="166.11" r="3.2" class="point"><title>5 commits</title></circle><circle cx="520.00" cy="221.67" r="3.2" class="point"><title>3 commits</title></circle><circle cx="537.31" cy="221.67" r="3.2" class="point"><title>3 commits</title></circle><circle cx="554.62" cy="249.44" r="3.2" class="point"><title>2 commits</title></circle><circle cx="571.92" cy="277.22" r="3.2" class="point"><title>1 commits</title></circle><circle cx="589.23" cy="193.89" r="3.2" class="point"><title>4 commits</title></circle><circle cx="606.54" cy="249.44" r="3.2" class="point"><title>2 commits</title></circle><circle cx="623.85" cy="110.56" r="3.2" class="point"><title>7 commits</title></circle><circle cx="658.46" cy="277.22" r="3.2" class="point"><title>1 commits</title></circle><circle cx="710.38" cy="166.11" r="3.2" class="point"><title>5 commits</title></circle><circle cx="727.69" cy="193.89" r="3.2" class="point"><title>4 commits</title></circle><circle cx="745.00" cy="221.67" r="3.2" class="point"><title>3 commits</title></circle><circle cx="762.31" cy="249.44" r="3.2" class="point"><title>2 commits</title></circle><circle cx="779.62" cy="221.67" r="3.2" class="point"><title>3 commits</title></circle><circle cx="796.92" cy="221.67" r="3.2" class="point"><title>3 commits</title></circle><circle cx="814.23" cy="138.33" r="3.2" class="point"><title>6 commits</title></circle><circle cx="831.54" cy="166.11" r="3.2" class="point"><title>5 commits</title></circle><circle cx="848.85" cy="166.11" r="3.2" class="point"><title>5 commits</title></circle><circle cx="866.15" cy="166.11" r="3.2" class="point"><title>5 commits</title></circle><circle cx="883.46" cy="110.56" r="3.2" class="point"><title>7 commits</title></circle><circle cx="900.77" cy="193.89" r="3.2" class="point"><title>4 commits</title></circle><circle cx="918.08" cy="221.67" r="3.2" class="point"><title>3 commits</title></circle><circle cx="935.38" cy="110.56" r="3.2" class="point"><title>7 commits</title></circle><circle cx="952.69" cy="110.56" r="3.2" class="point"><title>7 commits</title></circle><circle cx="970.00" cy="249.44" r="3.2" class="point"><title>2 commits</title></circle>
+
+<text x="70.00" y="342" class="label">Oct</text><text x="139.23" y="342" class="label">Nov</text><text x="208.46" y="342" class="label">Dec</text><text x="295.00" y="342" class="label">Jan</text><text x="364.23" y="342" class="label">Feb</text><text x="433.46" y="342" class="label">Mar</text><text x="520.00" y="342" class="label">Apr</text><text x="589.23" y="342" class="label">May</text><text x="658.46" y="342" class="label">Jun</text><text x="745.00" y="342" class="label">Jul</text><text x="814.23" y="342" class="label">Aug</text><text x="900.77" y="342" class="label">Sep</text><text x="970.00" y="342" class="label">Oct</text>
+
+<style>
+  .title {
+    fill: #38FDD8;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .subtitle {
+    fill: #8B949E;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+  }
+
+  .label {
+    fill: #8B949E;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+  }
+
+  .axis {
+    fill: #6E7681;
+    font-family: Arial, sans-serif;
+    font-size: 10px;
+  }
+
+  .grid {
+    stroke: #21262D;
+    stroke-width: 1;
+  }
+
+  .point {
+    fill: #38FDD8;
+    stroke: #0D1117;
+    stroke-width: 1.5;
+  }
+</style>
+
+</svg>
