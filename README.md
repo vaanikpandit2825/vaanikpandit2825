@@ -1,89 +1,61 @@
-<h1 align="center">Hi, I'm Vaanik Pandit 👋</h1>
+<div align="center"><img src="assets/hero.svg" width="100%" alt="Vaanik Pandit — Android developer, building thoughtful mobile experiences" />
+Android Developer · Kotlin & Jetpack Compose · Flutter · AI Integrations
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&center=true&width=900&height=60&lines=Android+Developer;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
+<sub>Building useful software, obsessing over the details, and learning something new every day.</sub>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
-</p>
 
----
 
-## 🚀 About Me
+<a href="https://www.linkedin.com/in/vaanik-pandit-224666332/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=38FDD8&labelColor=0B1220" /></a>
+<a href="mailto:vaanikpandit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Say%20hello-0B1220?style=for-the-badge&logo=gmail&logoColor=38FDD8&labelColor=0B1220" /></a>
+<a href="https://github.com/vaanikpandit2825?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Explore%20my%20work-0B1220?style=for-the-badge&logo=github&logoColor=38FDD8&labelColor=0B1220" /></a>
+</div>> whoami
+I'm Vaanik, a developer focused on creating polished Android experiences and practical software that solves real problems. I work across Kotlin, Jetpack Compose, Flutter and Python, and I'm especially interested in building mobile products with thoughtful UI and intelligent features.
+- 🔭 Building: Android applications and AI-powered tools
+- 🧠 Exploring: Kotlin, mobile architecture and full-stack systems
+- ⚡ Care about: Fast, intuitive interfaces and the small details that make apps delightful
+- 🤝 Open to: Collaboration, interesting open-source work and ambitious ideas
+> featured_projects
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/vaanikpandit2825/GitPulse">⚡ GitPulse</a>
+Explore GitHub activity, contributions and developer insights in an Android experience.
 
-- 🎯 Passionate *Android Developer*
-- 🛠 Skilled in *Flutter, Dart, C++, Python, Kotlin*
-- 🌱 Currently sharpening my *Kotlin & full-stack dev* skills
-- 🤝 Open to exciting *collaborations*
-- 📫 Reach me at *vaanikpandit@gmail.com*
+Kotlin · GitHub API
 
----
+<a href="https://github.com/vaanikpandit2825/GitPulse">View repository →</a>
+</td>
+<td width="50%" valign="top"><a href="https://github.com/vaanikpandit2825/AuroraAI">✦ Aurora AI</a>
+An AI-powered chat assistant built for everyday conversations on mobile.
 
-## Projects
+Flutter · Gemini API
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**GitPulse**](https://github.com/vaanikpandit2825/GitPulse) | Visualize GitHub activity — commits, streaks, contribution graphs | Kotlin · GitHub API |
-| [**Aurora AI**](https://github.com/vaanikpandit2825/AuroraAI) | AI chatbot assistant for Android | Flutter · Gemini API |
-| [**PlaceX**](https://github.com/vaanikpandit2825/PlaceX) | Campus placement tracker — applications, rounds, interview pipeline | Kotlin · MySQL |
-| [**ExpenseTracker**](https://github.com/vaanikpandit2825/ExpenseTracker) | Expense manager with category-based analytics | Flutter · Dart |
-| [**ContractLens**](https://github.com/vaanikpandit2825/ContractLens) | Smart legal document analyzer — extracts obligations, flags risky terms, generates summaries | Kotlin · Gemini API |
+<a href="https://github.com/vaanikpandit2825/AuroraAI">View repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/vaanikpandit2825/PlaceX">◎ PlaceX</a>
+Keep campus placement applications, stages and interview progress organized.
 
----
+Kotlin · MySQL
 
-## Connect With Me
+<a href="https://github.com/vaanikpandit2825/PlaceX">View repository →</a>
+</td>
+<td width="50%" valign="top"><a href="https://github.com/vaanikpandit2825/ContractLens">◈ ContractLens</a>
+Analyze legal documents, summarize clauses and surface terms worth reviewing.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaanik-pandit-224666332/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vaanikpandit@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
-  </a>
-</p>
+Kotlin · Gemini API
 
----
+<a href="https://github.com/vaanikpandit2825/ContractLens">View repository →</a>
+</td>
+</tr>
+</table><details>
+<summary><b>More I have built</b></summary>
+<br/>
+ExpenseTracker — Track expenses and review category-based spending using Flutter and Dart.
+</details>> toolkit
+<div align="center"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,python,cpp,firebase,git,github,vscode&theme=dark&perline=10" alt="Kotlin, Android Studio, Flutter, Dart, Python, C++, Firebase, Git, GitHub and VS Code" /></div>> contribution_activity
+<div align="center"><img src="assets/contribution-activity.svg" width="100%" alt="Animated line graph of Vaanik's actual GitHub contributions over the past year" /><sub>Real daily GitHub contribution counts · Refreshed automatically every day · Animated SVG hosted in this repository</sub>
+</div><div align="center">Let's build something worth using.
 
-<div align="center">
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black)
-
+<sub>Good software is equal parts engineering, curiosity and care.</sub>
 </div>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaanikpandit2825&theme=radical"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaanikpandit2825&theme=radical"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## Recent Coding Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/vaanikpandit2825/vaanikpandit2825/gh-pages/activity-graph.svg"
-    width="900"
-    alt="Recent Coding Activity"
-  />
-</p>
